@@ -1,20 +1,24 @@
-# Developers: Brian Kropff and Jill Kuchman
-# Date: 16 April 2015
+##Address Book
 
-Description:
+####Developers
+Brian Kropff and Jill Kuchman
+
+####Date
+16 April 2015
+
+####Description:
 This app is an address book that allows a user to add contacts with multiple addresses.
 
-# SetUp and Use
-In order to use this program you will need a browser...NOT IE!
+###Use and Editing
+You can use and/or edit this application by:<br />
+1. Cloning this project to the directory of your choice<br />
+2. Opening the project in your favorite text-editor (optional)<br />
+3. Open and point your browser to index.html<br />
+*(ex: file:///project-directory/index.html)*
 
-SetUp
-1.
+####Copyright (c) 2015 Brian Kropff & Jill Kuchman
 
-# Copyright (c) 2015 (Brian Kropff & Jill Kuchman)
-
-# The MIT License (MIT)
-
-# PERMISSION*
+####PERMISSION*
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
 the Software without restriction, including without limitation the rights to
@@ -25,7 +29,8 @@ do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
  copies or substantial portions of the Software.
 
-# LICENSING*
+####LICENSING*
+[MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE) 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
